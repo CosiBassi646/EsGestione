@@ -1,4 +1,9 @@
-.titlo{
+.titolo{
     background-color: yellow;
     text-align: center;
+}
+
+.sottoTitolo{
+    text-align: center;
+    color: red;
 }
