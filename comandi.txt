@@ -1,3 +1,0 @@
-1) git branch Feature/galleria
-2) git checkout Feature/galleria
-3)git commit -m “add carousel with n images”
